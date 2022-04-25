@@ -10,3 +10,4 @@ Steps to run this project:
 5. Run `ts-node ./node_modules/.bin/typeorm migration:create -n <fileName>` to create empty migration file.
 6. Run `ts-node ./node_modules/typeorm/cli.js migration:run` to run that migration files.
 7. Run `npm start` to insert/update/delete/read data inside the database.
+For Documentation [click here](https://docs.google.com/document/d/1uRlRIA4zkEX1p0eKeqBVcKR3OYQTb1GIojgweLvwqSs/edit#)
