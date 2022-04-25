@@ -12,4 +12,4 @@ Steps to run this project:
 7. Run `npm start` to insert/update/delete/read data inside the database.<br />
 
 # Documentation
-[Documentation](# Migration with TypeORM)
+[Documentation](https://docs.google.com/document/d/1uRlRIA4zkEX1p0eKeqBVcKR3OYQTb1GIojgweLvwqSs/edit#heading=h.vr232sj8v4lr)
